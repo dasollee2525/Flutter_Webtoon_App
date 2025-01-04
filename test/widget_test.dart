@@ -7,13 +7,20 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0f0db6a (Update webtoon app code)
 import 'package:flutter_webtoon_app/main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
+<<<<<<< HEAD
     await tester.pumpWidget(const MyApp());
+=======
+    await tester.pumpWidget(const App());
+>>>>>>> 0f0db6a (Update webtoon app code)
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);

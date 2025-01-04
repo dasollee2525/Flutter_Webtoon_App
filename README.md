@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# Flutter_Webtoon_App
+=======
+>>>>>>> 0f0db6a (Update webtoon app code)
 # flutter_webtoon_app
 
 A new Flutter project.
@@ -14,3 +20,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
+=======
+>>>>>>> 2933863 (show webtoon list on the screen)
+>>>>>>> 0f0db6a (Update webtoon app code)

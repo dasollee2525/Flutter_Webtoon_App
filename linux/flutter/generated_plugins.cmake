@@ -3,6 +3,10 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+<<<<<<< HEAD
+=======
+  url_launcher_linux
+>>>>>>> 0f0db6a (Update webtoon app code)
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST
